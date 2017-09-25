@@ -1,4 +1,4 @@
-#/usr/bin/python3
+#!/usr/bin/python3
 
 def isSubset(L1, L2):
     for e1 in L1:
